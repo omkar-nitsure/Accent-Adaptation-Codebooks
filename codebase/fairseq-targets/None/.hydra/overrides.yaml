@@ -1,0 +1,4 @@
+- task.data=/ASR_Kmeans/data/accent-targets
+- task.label_dir=/ASR_Kmeans/accent-targets/labels1
+- task.labels=["km"]
+- model.label_rate=50

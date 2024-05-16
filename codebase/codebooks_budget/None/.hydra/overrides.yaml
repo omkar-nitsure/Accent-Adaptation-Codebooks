@@ -1,0 +1,4 @@
+- task.data=/ASR_Kmeans/feats_labs/budget_loss
+- task.label_dir=/ASR_Kmeans/feats_labs/budget_loss/labels_iter3
+- task.labels=["km"]
+- model.label_rate=50
